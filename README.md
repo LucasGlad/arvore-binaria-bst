@@ -1,4 +1,4 @@
-# 🌳 Árvore Binária de Busca (BST) — Renalf S/A
+# 🌳 Árvore Binária de Busca (BST)
 
 Implementação de uma **Árvore Binária de Busca** (Binary Search Tree) em linguagem C, desenvolvida como trabalho acadêmico.
 
@@ -50,9 +50,9 @@ gcc arvore_binaria.c -o arvore_binaria
 ## 🖥️ Exemplo de Uso
 
 ```
-=========================================
-  Arvore Binaria de Busca - Renalf S/A
-=========================================
+=================================
+  Arvore Binaria de Busca - 
+=================================
 
 +------------------------------+
 |   * * * MENU DE OPCOES * * * |
