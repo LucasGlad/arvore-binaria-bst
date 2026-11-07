@@ -1,5 +1,5 @@
 /*
- * Arvore Binaria de Busca (BST) - Empresa Renalf S/A
+ * Arvore Binaria de Busca (BST)
  * Operacoes: Insercao, Remocao e Busca (Pre-ordem, Em-ordem, Pos-ordem)
  * Linguagem: C
  */
